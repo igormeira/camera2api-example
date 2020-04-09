@@ -1,0 +1,2 @@
+rootProject.name='Camera 2 Api'
+include ':app'
